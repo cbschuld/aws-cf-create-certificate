@@ -60,7 +60,7 @@ Want to improve this template? Submit a pull request or open an issue! We're loo
 - Architecture diagrams or example sites.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
 
 ## Stay Updated
 Star this repo and follow me on [X](https://x.com/cbschuld) for updates!
