@@ -1,6 +1,6 @@
 Description: >
   Provision an ACM certificate for both the apex and wildcard of a domain,
-  with DNS validation handled automatically by Route 53.
+  with DNS validation handled automatically by Route 53.
 
 Parameters:
   DomainName:
